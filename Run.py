@@ -1,5 +1,5 @@
 # Mensajes Automaticos a Whatsapp By: Geovas or MartL7
-# Recuerda instalar la libreria de Pyautogui desde tu termna con el comando
+# Recuerda instalar la libreria de Pyautogui desde tu terminal con el comando
 #     pip install pyautogui
 
 import pyautogui, webbrowser, re
